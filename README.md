@@ -10,8 +10,4 @@
 
 ## Connect with Me 📫
 
-[![email](https://github.com/sch-sb/sch-sb/assets/98799624/44f3307d-c1a8-40d5-81a5-f2153570ebe8){width=60%}](mailto:sacha.carvalho@saude.gov.br)
-
-[![twitter](https://github.com/sch-sb/sch-sb/assets/98799624/ad30d47e-be96-48d0-b90f-9bbd8e1b0d5a){width=60%}](http://twitter.com/sacha_sab)
-
-[![linkedin](https://github.com/sch-sb/sch-sb/assets/98799624/3ed646a6-eda4-4938-b427-2e0cc6f673e3){width=60%}](https://www.linkedin.com/in/sachasab/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sachasab/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](http://twitter.com/sacha_sab)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='twitter' height='40'>](mailto:sacha.carvalho@saude.gov.br)
